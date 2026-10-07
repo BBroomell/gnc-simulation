@@ -1,0 +1,19 @@
+# Compiled C/C++ files
+*.exe
+*.obj
+*.o
+
+# Build directories
+build/
+out/
+
+# Visual Studio / VS Code generated files
+.vs/
+.vscode/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Simulation output
+data/*.csv
