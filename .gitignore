@@ -17,3 +17,7 @@ __pycache__/
 
 # Simulation output
 data/*.csv
+
+# MSVC debug/build files
+*.pdb
+*.ilk
